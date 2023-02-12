@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <title>Drawing App</title>
+        <link rel="stylesheet" href="UI.css" />
+    </head>
+
+    <body>
+        <div class="container">
+            <h2>Webs On Strocks</h2>
+            <div id="canvas_div">
+                <canvas id="canvas"></canvas>
+            </div>
+            <div class="tools">
+                <div id="btn-box">
+                    <div id="clear">Clear</div>
+                    <button id="save">Save</button>
+                </div>
+                <input type="color" id="stroke_color" value="#2b6dff" />
+                <div class="slider">
+                    <input type="range"
+                        id="stroke_width"
+                        min="0"
+                        max="100"
+                        value="1"
+                        step="1"
+                        oninput="draw_width = this.value"
+                    />
+                </div>
+            </div>
+        </div>
+        <!-- Project -->
+        <script src="app.js"></script>
+    </body>
+</html>
