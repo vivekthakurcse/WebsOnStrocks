@@ -70,3 +70,10 @@ padding: 0;
     border: none;
 }
 
+
+@media(min-width:700px){
+    #canvas{
+        width: 650px;
+        height: 350x;
+    }
+}

@@ -12,6 +12,7 @@
     <body>
         <div class="container">
             <h2>Webs On Strocks</h2>
+            <br/>
             <div id="canvas_div">
                 <canvas id="canvas"></canvas>
             </div>
@@ -22,14 +23,14 @@
                 </div>
                 <input type="color" id="stroke_color" value="#2b6dff" />
                 <div class="slider">
-                    <input type="range"
+                    <center><input type="range"
                         id="stroke_width"
                         min="0"
                         max="100"
                         value="1"
                         step="1"
-                        oninput="draw_width = this.value"
-                    />
+                        oninput="draw_width = this.value"              
+                    /><center/>
                 </div>
             </div>
         </div>
