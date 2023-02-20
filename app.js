@@ -68,8 +68,7 @@ window.addEventListener("load", function () {
     document.getElementById("clear").addEventListener("click", clear_canvas);
 });
 
-
-document.getElementById("save").addEventListener("click", function() {
+document.getElementById("save").addEventListener("click", function () {
     const link = document.createElement("a");
     link.download = "canvas.png";
     link.href = canvas.toDataURL();
