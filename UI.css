@@ -80,6 +80,8 @@ body {
     border-radius: 0.3em;
     outline: 2px solid black;
     height: 100px;
+    overflow: hidden;
+    overflow-y: hidden;
 }
 @media (min-width: 700px) {
     body {
