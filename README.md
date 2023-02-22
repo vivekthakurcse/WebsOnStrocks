@@ -8,4 +8,4 @@ Let's create a simple but fun drawing app on web.
  </p>
 <h5> Art by : @priya_panda🐼  |   Art by : @Anshu😋 </h5>
 
-<h3>Show your art skills at : <a href="https://vivekthakurcse.github.io/WebsOnStrocks/">https://vivekthakurcse.github.io/WebsOnStrocks/</h3>
+<h3>Show your art skills at : <a href="https://vivekthakurcse.github.io/WebsOnStrocks/">vivekthakurcse.github.io/WebsOnStrocks</h3>
