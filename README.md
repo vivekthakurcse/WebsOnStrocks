@@ -1,6 +1,11 @@
 <h2 align="center">WebsOnStrocks🎨</h2>
-<p align="center">Let's create a simple but fun drawing app on web. You Can create some awesome artworks and save it as a png in your device</p>
+<p align="center">Let's create a simple but fun drawing app on web. You can create some awesome artworks and save it as a png in your device</p>
 </p>
+
+<h3>Features ~ </h3>
+<p><b>1.)</b> Adjustable thinkness of brush.</p>
+<p><b>2.)</b> Selective colour options.</p>
+<p><b>3.)</b> Save your artworks in PNG format</p>
 
 
 <h3 align="center"> ~ Some Art Works 🎨🖌️~ </h3>
