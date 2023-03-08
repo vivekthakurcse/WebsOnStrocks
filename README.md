@@ -2,7 +2,7 @@
 Let's create a simple but fun drawing app on web.
 
 
-<h3 align="center">Some Art Works ~ </h3>
+<h3 align="center"> ~ Some Art Works ~ </h3>
 
  <p align="center">
 
