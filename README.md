@@ -1,4 +1,4 @@
-<h2>WebsOnStrocks</h2>
+<h2 align="center">WebsOnStrocks🎨</h2>
 Let's create a simple but fun drawing app on web.
 
 
