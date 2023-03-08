@@ -1,5 +1,6 @@
 <h2 align="center">WebsOnStrocks🎨</h2>
-Let's create a simple but fun drawing app on web.
+<p align="center">Let's create a simple but fun drawing app on web.
+</p>
 
 
 <h3 align="center"> ~ Some Art Works 🎨🖌️~ </h3>
