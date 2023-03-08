@@ -21,8 +21,3 @@
 
 
 <h4>Show your art skills at : <a href="https://vivekthakurcse.github.io/WebsOnStrocks/">vivekthakurcse.github.io/WebsOnStrocks</h4>
-
-
-<p align="right">
-<img src="https://img.shields.io/website?down_color=red&down_message=down&up_color=green&up_message=online&url=https%3A%2F%2Fvivekthakurcse.github.io/WebsOnStrocks">
-</p>
