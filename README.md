@@ -8,7 +8,7 @@
 <br/><b>3.)</b> Save your artworks in PNG format</p>
 
 
-<h3 align="center"> ~ Some Art Works 🎨🖌️~ </h3>
+<h3>Some Art Works 🎨🖌️~ </h3>
 
  <p align="center">
 
