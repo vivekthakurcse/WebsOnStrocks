@@ -13,7 +13,7 @@
  <p align="center">
 
   <img width="100x" height="200px"  src="https://raw.githubusercontent.com/vivekthakurcse/WebsOnStrocks/main/Art%20Works/IMG-20230213-WA0003.jpg">
-  <img width="100px" height="200px" src="https://raw.githubusercontent.com/vivekthakurcse/WebsOnStrocks/main/Art%20Works/IMG-20230213-WA0004.jpg"> 
+  <img width="100px" height="200px" style="margin-left:30px" src="https://raw.githubusercontent.com/vivekthakurcse/WebsOnStrocks/main/Art%20Works/IMG-20230213-WA0004.jpg"> 
  </p>
 
 <p align="center"> Art by : @priya_panda🐼  |   Art by : @Anshu😋 </p>
