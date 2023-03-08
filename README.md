@@ -3,9 +3,9 @@
 </p>
 
 <h3>Features ~ </h3>
-<p><b>1.)</b> Adjustable thinkness of brush.</p>
-<p><b>2.)</b> Selective colour options.</p>
-<p><b>3.)</b> Save your artworks in PNG format</p>
+<p><b>1.)</b> Adjustable thinkness of brush.
+<br/><b>2.)</b> Selective colour options.
+<br/><b>3.)</b> Save your artworks in PNG format</p>
 
 
 <h3 align="center"> ~ Some Art Works 🎨🖌️~ </h3>
